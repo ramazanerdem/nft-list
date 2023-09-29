@@ -11,7 +11,13 @@ Fetch işlemleri için SWR paketi kullanılmıştır.
 <br><br>
 Birkaç özel fotoğraf dışında bütün ikonlar için .svg formatı kullanılmıştır.
 <br><br>
+<br><br>
+Projeyi yerele aldıktan sonra terminalde proje klasörüne konumlanıp aşağıdaki komutları çalıştırarak projeyi ayağa kaldırabilirsiniz.
+<br><br>
+
+`npm install`
 <br>
+`npm run dev`
 
 <h1 align="center">
 Proje linkine <a href="https://nft-collection-bag.netlify.app/">buradan</a> erişebilirsiniz

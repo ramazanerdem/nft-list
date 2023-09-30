@@ -497,6 +497,7 @@ footer .right-side .second-list li:hover {
 
   header .logo {
     padding-bottom: 0.3em;
+    padding: 0 1em;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -535,7 +536,7 @@ footer .right-side .second-list li:hover {
   /* Main */
 
   main .top-section {
-    height: 15em;
+    height: 12em;
   }
 
   main .collector-section .info-container {
@@ -560,7 +561,7 @@ footer .right-side .second-list li:hover {
   main .mid-section .right-article {
     padding-left: 0;
     padding-right: 0;
-    height: 35em;
+    height: 27em;
   }
 
   main .mid-section .right-article ul {
@@ -583,8 +584,14 @@ footer .right-side .second-list li:hover {
 
   /* Footer */
 
+  .footer-border {
+    padding: 0 1.5em;
+  }
+
   footer {
     flex-direction: column;
+    margin-top: 2em;
+    padding: 0 1.5em;
   }
 
   footer .right-side .first-list {
